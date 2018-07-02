@@ -9,8 +9,8 @@ return (<div className='results-container'>
             <div className='results'>
               <h2>YOUR SCORE</h2>
               <div className='score'>{percentage}%</div>
-              <div className='correct'><img src='./images/Tick.png' /> {correct} Correct</div>
-              <div className='incorrect'><img src='./images/Cross.png' /> {incorrect} Incorrect</div>
+              <div className='correct'><img src='./images/Tick.png' alt="correct" /> {correct} Correct</div>
+              <div className='incorrect'><img src='./images/Cross.png' alt="incorrect" /> {incorrect} Incorrect</div>
             </div>
           </div>
        </div>)

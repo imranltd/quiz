@@ -43,9 +43,9 @@
 
 .correct, .incorrect {
   font-size: 16px;
-    text-align: left;
-    width: 100px;
-    margin: 22px auto;
+  text-align: left;
+  width: 100px;
+  margin: 22px auto;
 }
 .incorrect {
   margin: auto;

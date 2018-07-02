@@ -1,11 +1,6 @@
 import React from 'react';
-//import './styles.css'
-
-
 
 const Answer = props => {
-
-  //console.log('Answer', props)
   return(<div 
       data-ref-answer-id={props.questionIndex} 
       data-ref-question-id={props.answerId} 
@@ -16,12 +11,7 @@ const Answer = props => {
   </div>)
 }
 
-
-
-
 const Answers = props => {
-  //console.log('Answers', props)
-
 return (<div className='answers-container'>
           <div className='answers'>
           {

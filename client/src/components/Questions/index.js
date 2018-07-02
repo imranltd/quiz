@@ -4,8 +4,6 @@ import Answers from './Answers'
 import './styles.css'
 
 const Questions = props => {
-  //console.log('Questions', props)
-  //const selectedAnswer = (props.selectedAnswer === '' ? null : props.selectedAnswer)
   return(
     <div className='questions-container'>
       <Question 
