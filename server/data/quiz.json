@@ -1,0 +1,64 @@
+{
+  "questions": [
+  {
+    "id": 1,
+    "q": "What colour is the grass?",
+    "a": ["Black", "Blue", "Green", "Orange", "Pink"],
+    "c": 2
+  },
+  {
+    "id": 2,
+    "q": "How many wheels do cycles have?",
+    "a": ["One", "Two", "Three", "Four", "Five"],
+    "c": 1
+  },
+    {
+    "id": 3,
+    "q": "Whats the name of Intelligence agency of UK?",
+    "a": ["MI5", "MI1", "MI2", "MI3", "MI4"],
+    "c": 0
+  },
+  {
+    "id": 4,
+    "q": "What colour is the sky?",
+    "a": ["Black", "Blue", "Green", "Orange", "Pink"],
+    "c": 1
+  },
+    {
+    "id": 5,
+    "q": "Which country has the world’s one-fourth oil reserve?",
+    "a": ["India", "Pakistan", "United Kindgom", "Spain", "Saudi Arabia"],
+    "c": 4
+  },
+  {
+    "id": 6,
+    "q": "Who wrote ‘A Brief History of Time’?",
+    "a": ["JK Rowling", "Stephen Hawking", "William Shakespeare", "David Walliams", "Bill Gates"],
+    "c": 1
+  },
+    {
+    "id": 7,
+    "q": "Who is Anna Kournikova?",
+    "a": ["Footballer", "Actress", "Scientist", "Tennis Player", "Singer"],
+    "c": 3
+  },
+  {
+    "id": 8,
+    "q": "Which country’s airline is KLM?",
+    "a": ["USA", "UK", "Holland", "France", "Germany"],
+    "c": 2
+  },
+    {
+    "id": 9,
+    "q": "The next day of Christmas commonly known as?",
+    "a": ["Christmas Eve", "New Years Day", "Boxing Day", "New Years Eve", "Fathers Day"],
+    "c": 2
+  },
+  {
+    "id": 10,
+    "q": "Which character is not an Avenger?",
+    "a": ["Batman", "Ironman", "Hulk", "Thor", "Captain America"],
+    "c": 0
+  }
+  ]
+}
