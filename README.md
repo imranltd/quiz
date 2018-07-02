@@ -1,4 +1,6 @@
 # quiz
 
-1. npm install
-2. npm start
+1. Clone repo
+2. cd quiz
+3. npm install
+4. npm start
